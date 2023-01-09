@@ -1,0 +1,22 @@
+.wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.container {
+    max-width: 1233px;
+    margin: 0 auto;
+}
+body {
+    font-family: $font;
+    line-height: 1;
+    color: $text-color-white;
+    font-weight: 400;
+    background-color: $primary-color;
+}
+button {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-family: $font;
+    white-space: nowrap;
+}
